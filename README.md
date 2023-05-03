@@ -13,6 +13,7 @@
 ### Articles
 - [NgJournal](https://ng-journal.com/)
 - [angular.love](https://www.angular.love/)
+- [debugmode](https://debugmode.net/)
 
 
 ## Other
