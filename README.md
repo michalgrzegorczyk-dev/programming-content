@@ -10,6 +10,7 @@
 - [Joshua Morony](https://www.youtube.com/@JoshuaMorony/videos)
 - [Manfred Steyer](https://www.youtube.com/@ManfredSteyer/videos)
 - [Angular Love](https://www.youtube.com/@angularlove/videos)
+- [AngularBros](https://www.youtube.com/@AngularBros)
 ### Articles
 - [NgJournal](https://ng-journal.com/)
 - [angular.love](https://www.angular.love/)
